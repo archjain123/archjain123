@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Archit Jain
+- 👋 Hi, I’m Archit Jain , but you can call me aadi
 - 👀 I’m interested in everything which comes in my way .
 - 🌱 I’m currently learning elctronics , programming , Robotics.
 - 💞️ I’m looking to collaborate on microprocessors , embedded systems , robotics.
