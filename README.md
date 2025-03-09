@@ -4,7 +4,7 @@
 🌱 Currently Learning: Embedded Systems, Microprocessors, and Advanced Robotics
 🤝 Open to Collaborate: On projects involving Embedded Systems, Microcontrollers, and Robotics
 💡 Interests: AI, IoT, Automation, and everything that challenges me
-`rgb(9, 105, 218)`
+
 ##🔧 Skills & Technologies
 🖥️ Programming: Python, C, C++
 🔌 Embedded Systems: ESP32, Arduino, Raspberry Pi
