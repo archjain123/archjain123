@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Archit Jain , but you can call me aadi
-- 👀 I’m interested in everything which comes in my way .
-- 🌱 I’m currently learning elctronics , programming , Robotics.
-- 💞️ I’m looking to collaborate on microprocessors , embedded systems , robotics.
-- 📫 How to reach me : contact me on my linkedin profile { www.linkedin.com/in/archit-jain-b5547a229 }
-
-<!---
-archjain123/archjain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#👋 Hi, I'm Archit
+🚀 About Me
+🔭 Exploring: Electronics, Programming, and Robotics
+🌱 Currently Learning: Embedded Systems, Microprocessors, and Advanced Robotics
+🤝 Open to Collaborate: On projects involving Embedded Systems, Microcontrollers, and Robotics
+💡 Interests: AI, IoT, Automation, and everything that challenges me
+`rgb(9, 105, 218)`
+##🔧 Skills & Technologies
+🖥️ Programming: Python, C, C++
+🔌 Embedded Systems: ESP32, Arduino, Raspberry Pi
+🤖 Robotics: Computer Vision
+🔬 Electronics: PCB Design, Sensors, Actuators
+⚙️ Automation: CNC Machines, IoT, Home Automation
+📫 Connect with Me
+🌍 LinkedIn: www.linkedin.com/in/architjain2345
+📩 Email: architjain2345@gmail.com 
